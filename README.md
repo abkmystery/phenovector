@@ -5,6 +5,8 @@ PhenoVector is a fully local, lightweight behavioural‑genome engine that deriv
 All capabilities described here match the actual source code: `features.py`, `genes.py`, `genome.py`, and `app.py`.
 
 ---
+<img width="1886" height="903" alt="Img1" src="https://github.com/user-attachments/assets/fb797fc7-27d1-4a27-8083-1a0afbdcabe7" />
+---
 
 ## 🔍 What PhenoVector Does
 
