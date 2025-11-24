@@ -1,0 +1,23 @@
+[project]
+name = "phenovector"
+version = "0.1.0"
+description = "Lightweight behavioural genome engine for analyzing running system processes"
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [
+  {name = "Ahmed Bin Khalid", email = "AHMED.KHALID2108@GMAIL.com"}
+]
+
+dependencies = [
+  "psutil",
+  "numpy",
+  "pandas",
+  "scikit-learn",
+  "plotly",
+  "streamlit"
+]
+
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
